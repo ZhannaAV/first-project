@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e69a6eec-26ec-48b8-8d33-5a801ef690ba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +20,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects/untitled" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -52,6 +51,8 @@
       <workItem from="1606377422477" duration="35000" />
       <workItem from="1610818539561" duration="237000" />
       <workItem from="1610818795986" duration="63000" />
+      <workItem from="1610867521650" duration="610000" />
+      <workItem from="1610871987895" duration="29000" />
     </task>
     <servers />
   </component>
@@ -59,9 +60,9 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="369" y="37" key="FileChooserDialogImpl" timestamp="1606377454913">
+    <state x="369" y="37" key="FileChooserDialogImpl" timestamp="1610872014563">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="369" y="37" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1606377454913" />
+    <state x="369" y="37" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1610872014563" />
   </component>
 </project>
