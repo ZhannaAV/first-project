@@ -106,7 +106,8 @@
   &__inner {
     display: flex;
     justify-content: space-between;
-    padding-left: 50px;
+    padding: 0 25px;
+    
   }
   &__text {
     max-width: 440px;
@@ -220,7 +221,7 @@
 
   &__item-4 {
     position: relative;
-    margin-left: 65px;
+    margin-left: 55px;
     &::before {
       content: "";
       position: absolute;
@@ -277,7 +278,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-left: 40px;
+    padding-left: 25px;
   }
   &__item_position_center {
     margin-left: -15px;
@@ -307,28 +308,28 @@
     margin-top: 160px;
   }
   &__box-1::before {
-    background-image: url("../images/pointer\ 1.svg");
+    background-image: url("../images/pointer 1.svg");
     width: 281px;
     height: 141px;
     right: -185px;
     top: 37px;
   }
   &__box-2::before {
-    background-image: url("../images/pointer\ 2.svg");
+    background-image: url("../images/pointer 2.svg");
     width: 419px;
     height: 98px;
     right: -330px;
     top: -55px;
   }
   &__box-3::before {
-    background-image: url("../images/pointer\ 3.svg");
+    background-image: url("../images/pointer 3.svg");
     width: 258px;
     height: 103px;
     left: -262px;
     top: 42px;
   }
   &__box-4::before {
-    background-image: url("../images/pointer\ 4.svg");
+    background-image: url("../images/pointer 4.svg");
     width: 124px;
     height: 89px;
     left: -134px;
@@ -407,6 +408,7 @@
 }
 
 .contacts {
+  position: relative;
   &__inner {
     display: flex;
     padding-left: 50px;
@@ -423,7 +425,6 @@
     font-size: 21px;
     line-height: 24px;
     @extend %ubuntu-bold;
-    margin-bottom: 13px;
   }
   &__info-phone,
   &__info-email {
@@ -439,12 +440,11 @@
     font-size: 21px;
     line-height: 24px;
     @extend %ubuntu-bold;
-    margin-bottom: 13px;
   }
   &__form-text {
     font-size: 15px;
     line-height: 130%;
-    margin-bottom: 0 0 12px;
+    margin: 0 0 12px;
   }
   &__form-line {
     padding: 0;
@@ -502,7 +502,7 @@
     }
   }
   &__copy {
-    text-align: right;
+    position: absolute;
     bottom: 32px;
     right: 64px;
     font-size: 13px;
